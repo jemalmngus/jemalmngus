@@ -2,8 +2,7 @@
   <h1>👋 Hello, I'm Jemal Mohamedngus</h1>
   <p><strong>🔭 Working at TopTech IT Solutions PLC as a full-stack developer</strong></p>
   <p><strong><img src="./icons/certificate.png" alt="Certificate" title="Certificate" width="24" height="24" align="center" /> AZ-104 and AZ-900 Azure certified professional</strong></p>
-  <p>📧 <a href="mailto:jemalmngus@gmail.com">jemalmngus@gmail.com</a></p>
-  <p><a href="https://www.linkedin.com/in/jemalmngus"><img src="./icons/linkedin.png" alt="LinkedIn" title="LinkedIn" width="24" height="24" /></a></p>
+  <p>🌱 Working on the <a href="https://www.familysooq.com"><strong>FamilySooq</strong></a> and <strong>Electrical Expo</strong> projects</p>
 </div>
 
 <div align="center">
@@ -50,8 +49,6 @@
 
 <br />
 
-
-
 <div align="center">
   <h3>About FamilySooq</h3>
   <p>FamilySooq is a website that provides a platform for families to connect, share, and discover various products and services. Visit <a href="https://www.familysooq.com">www.familysooq.com</a> to explore more!</p>
@@ -66,4 +63,3 @@
   <h3>👯 Collaboration</h3>
   <p>I'm open to collaborating on exciting projects and exploring new opportunities. Feel free to reach out to me via email at <a href="mailto:jemalmngus@gmail.com">jemalmngus@gmail.com</a> or connect with me on <a href="https://www.linkedin.com/in/jemalmngus">LinkedIn</a>. Let's work together and create something amazing!</p>
 </div>
-
